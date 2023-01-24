@@ -1,0 +1,7 @@
+print(bool(False))
+print(bool(None))
+print(bool(0))
+print(bool(""))
+print(bool(()))
+print(bool([]))
+print(bool({})) #Those are returning FALSE, everything else if mostly true (it's about variables) 
